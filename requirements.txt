@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+python-dotenv
+redis
+tenacity
+Pillow
+pytesseract
+langdetect
